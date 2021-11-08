@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Andy/Documents/NetBeansProjects/Estancia/src/modelos/Habitacion.java</file>
+            <file>file:/C:/Users/Andy/Documents/NetBeansProjects/Estancia/src/ventanas/Menu.java</file>
+            <file>file:/C:/Users/Andy/Documents/NetBeansProjects/Estancia/src/hilos/ReservacionHilo.java</file>
+            <file>file:/C:/Users/Andy/Documents/NetBeansProjects/Estancia/src/modelos/HabitacionDAO.java</file>
+            <file>file:/C:/Users/Andy/Documents/NetBeansProjects/Estancia/src/db/Conexion.java</file>
+            <file>file:/C:/Users/Andy/Documents/NetBeansProjects/Estancia/src/estancia/Estancia.java</file>
+            <file>file:/C:/Users/Andy/Documents/NetBeansProjects/Estancia/src/ventanas/VisualizadorReservaciones.java</file>
+            <file>file:/C:/Users/Andy/Documents/NetBeansProjects/Estancia/src/estancia/ComboItem.java</file>
+            <file>file:/C:/Users/Andy/Documents/NetBeansProjects/Estancia/src/modelos/Reservacion.java</file>
+            <file>file:/C:/Users/Andy/Documents/NetBeansProjects/Estancia/src/modelos/ReservacionDAO.java</file>
+            <file>file:/C:/Users/Andy/Documents/NetBeansProjects/Estancia/src/ventanas/FormularioReservaciones.java</file>
+        </group>
+    </open-files>
+</project-private>
